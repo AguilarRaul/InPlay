@@ -1,4 +1,4 @@
-# Classification model predicting batter In Play probability ⚾️
+# Classification model predicting Ball In Play probability ⚾️
 
 ### Q1 In Play deployment data predictions
 
