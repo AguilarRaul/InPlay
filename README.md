@@ -2,7 +2,7 @@
 
 ### Q1 In Play deployment data predictions
 
-Plase reffer to InPlay.ipynb notebook and results.csv file for modeling approach and results.
+Plase refer to InPlay.ipynb notebook and results.csv file for modeling approach and results.
 
 ### Q2: Modeling approach reasoning
 
